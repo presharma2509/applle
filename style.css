@@ -6,6 +6,7 @@
 html, body{
     height: 100%;
     width: 100%;
+    background-color: white;
 }
 .main{
     font-family: Arial, Helvetica, sans-serif;
@@ -70,5 +71,88 @@ button:hover{
 #rbutton:hover{
     border: none;
     background-color: rgb(62, 103, 238);
+    color: white;
+}
+
+/* secmain */
+
+
+.secmain{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/heroes/iphone-air/hero_iphone_air__0gxyavihpiqu_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   text-align: center;
+}
+.secmain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 60px;
+}
+.secmain h4{
+    color: black;
+    font-size: 30px;
+    font-weight: 200;
+}
+#button2 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button2 #rbutton2{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button2 #rbutton2:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+
+/* thirdmain */
+
+.thirdmain{
+     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/heroes/iphone-17/hero_iphone_17__c5vvimu9a20y_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   text-align: center;
+}
+.thirdmain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 60px;
+}
+.thirdmain h4{
+    color: black;
+    font-size: 30px;
+    font-weight: 200;
+}
+#button3 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button3 #rbutton3{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button3 #rbutton3:hover{
+    background-color:rgb(62, 103, 238) ;
+
     color: white;
 }
