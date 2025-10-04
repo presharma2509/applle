@@ -1,3 +1,8 @@
+@font-face {
+    font-family: apple;
+    src: url(./Havana.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -152,6 +157,286 @@ button:hover{
     color: rgb(62, 103, 238);
 }
 #button3 #rbutton3:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+
+
+/* forthmian */
+
+.forthmain{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    overflow: hidden;
+}
+
+.forthonemain{
+     margin: 10px 0px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/apple-watch-series-11/promo_apple_watch_series_11__b63hxviqvonm_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.forthonemain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.forthonemain h1 span{
+    font-weight: 100;
+}
+.forthonemain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button4 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button4 #rbutton4{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button4 #rbutton4:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+/* sec4 */
+
+.forthsecmain{
+     margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/airpods-pro-3/promo_airpodspro_3__f6xmza7bglei_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   text-align: center;
+}
+.forthsecmain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.forthsecmain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button4 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button4 #rbutton4{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button4 #rbutton4:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+
+/* fifth */
+
+.fifthmain{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    overflow: hidden;
+}
+
+.fifthonemain{
+     margin: 10px 0px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/macbook-air/promo_macbook_air__fqowrtnxewqe_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.fifthonemain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.fifthonemain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button5 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button5 #rbutton5{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button5 #rbutton5:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+/* sec4 */
+
+.fifthsecmain{
+     margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/ipad-air/promo_ipad_air_avail__6i02t7nujr62_medium_2x.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   text-align: center;
+}
+.fifthsecmain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.fifthsecmain h1 span{
+    font-family: apple;
+    font-weight: 200;
+    color: rgb(1, 135, 244);
+}
+.fifthsecmain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button5 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button5 #rbutton5{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button5 #rbutton5:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+
+
+/* sixth */
+
+.sixthmain{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    overflow: hidden;
+}
+
+.sixthonemain{
+     margin: 10px 0px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_small_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.sixthonemain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.sixthonemain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button6 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button6 #rbutton6{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button6 #rbutton6:hover{
+    background-color:rgb(62, 103, 238) ;
+
+    color: white;
+}
+/* sec4 */
+
+.sixthsecmain{
+     margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    background-image: url(https://www.apple.com/v/home/ch/images/promos/apple-card/promo_apple_card__5cm7draujpey_small_2x.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   text-align: center;
+}
+.sixthsecmain h1{
+     margin-top: 30px;
+    color: black;
+    font-size: 40px;
+}
+.sixthsecmain h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+#button6 button:hover{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button6 #rbutton6{
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(62, 103, 238) ;
+    color: rgb(62, 103, 238);
+}
+#button6 #rbutton6:hover{
     background-color:rgb(62, 103, 238) ;
 
     color: white;
